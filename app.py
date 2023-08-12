@@ -3,8 +3,10 @@ import pickle
 import numpy as np
 from PIL import Image
 #from tensorflow.keras.models import load_model
-from tensorflow.python.keras import Sequential, load_model
-from tensorflow.python.keras.layers import Dense
+from keras.models import load_model
+
+#from tensorflow.python.keras import Sequential, load_model
+#from tensorflow.python.keras.layers import Dense
 
 
 
